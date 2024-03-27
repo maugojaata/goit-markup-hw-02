@@ -1,0 +1,98 @@
+body {
+  font-family: "Roboto", "Arial", "Verdana" sans-serif;
+  color: #434455;
+}
+
+.headers {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  color: #2e2f42;
+}
+.big-headers {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11111;
+  text-align: center;
+  color: #2e2f42;
+}
+.interactive {
+  text-decoration: none;
+}
+.interactive:hover {
+  color: brown;
+}
+.interactive:focus {
+  color: brown;
+}
+.pointer {
+  cursor: pointer;
+}
+.logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.16667;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #2e2f42;
+}
+.web-span {
+  color: #4d5ae5;
+}
+.nav-header {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #2e2f42;
+}
+.address-links {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #434455;
+}
+.effective {
+  background: #2e2f42;
+}
+.effective-header {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07143;
+  text-align: center;
+  color: #fff;
+}
+.effective-button {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #fff;
+}
+.text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+}
+.header {
+  background: #fff;
+}
+.team {
+  background: #f4f4fd;
+}
+.footer {
+  background: #2e2f42;
+}
+.footer-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #f4f4fd;
+}
+.footer-logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.16667;
+  text-transform: uppercase;
+  color: #f4f4fd;
+}
