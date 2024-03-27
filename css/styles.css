@@ -51,7 +51,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
+  color: #2e2f42;
 }
 .address-links {
   font-weight: 400;
@@ -88,7 +88,10 @@ body {
   background-color: #404bbf;
 }
 .list-color {
-  color: #ffffff;
+  color: #434455;
+}
+.our-team {
+  background-color: #ffffff;
 }
 .text {
   font-weight: 400;
