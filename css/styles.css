@@ -9,6 +9,7 @@ body {
   font-size: 20px;
   line-height: 1.2;
   color: #2e2f42;
+  letter-spacing: 0.02em;
 }
 .big-headers {
   font-weight: 700;
@@ -55,6 +56,8 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: #434455;
+  font-style: normal;
+  letter-spacing: 0.02em;
 }
 .effective {
   background: #2e2f42;
@@ -65,17 +68,28 @@ body {
   line-height: 1.07143;
   text-align: center;
   color: #fff;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
 }
 .effective-button {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   color: #fff;
+  background-color: #4d5ae5;
+  letter-spacing: 0.04em;
+}
+.pointer:hover {
+  background-color: #404bbf;
+}
+.pointer:focus {
+  background-color: #404bbf;
 }
 .text {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 .header {
   background: #fff;
