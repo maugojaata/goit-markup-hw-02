@@ -14,9 +14,11 @@ body {
 .big-headers {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
   text-align: center;
   color: #2e2f42;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
 }
 .interactive {
   text-decoration: none;
@@ -48,8 +50,8 @@ body {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
-  color: #2e2f42;
   letter-spacing: 0.02em;
+  color: #434455;
 }
 .address-links {
   font-weight: 400;
@@ -85,6 +87,9 @@ body {
 .pointer:focus {
   background-color: #404bbf;
 }
+.list-color {
+  color: #ffffff;
+}
 .text {
   font-weight: 400;
   font-size: 16px;
@@ -99,6 +104,7 @@ body {
 }
 .footer {
   background: #2e2f42;
+  letter-spacing: 0.02em;
 }
 .footer-text {
   font-weight: 400;
@@ -112,5 +118,10 @@ body {
   font-size: 18px;
   line-height: 1.16667;
   text-transform: uppercase;
+  color: #4d5ae5;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+}
+.studio-span-footer {
   color: #f4f4fd;
 }
